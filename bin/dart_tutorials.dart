@@ -1,5 +1,18 @@
-import 'package:dart_tutorials/dart_tutorials.dart' as dart_tutorials;
+import 'package:dart_tutorials/basics.dart';
+import 'package:dart_tutorials/records_example.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${dart_tutorials.calculate()}!');
+
+  //? basics.dart
+  // numberExamples();
+  // stringExamples();
+  // something();
+
+
+  //? records.dart
+  // recordExample();
+  // getRecordData();
+
+
+  //? collections
 }
